@@ -1,7 +1,7 @@
 # GAS_MK8DX-150ccLounge-Namehistory-Checker
 Sorry, edtitting... / 編集中です…。
 
-## Googleスプレッドシート共有リンク（コピーして使ってください） / Google Spreadsheet share link(copy to use)
+## Googleスプレッドシート共有リンク（コピーして使ってください） / Google Spreadsheet share link(Copy to use)
 [https://docs.google.com/spreadsheets/d/18A70yJwTanHruNXXpp83xQiDlPKq4GMIUjUXV0xD8Ok/edit?usp=sharing](https://docs.google.com/spreadsheets/d/18A70yJwTanHruNXXpp83xQiDlPKq4GMIUjUXV0xD8Ok/edit?usp=sharing)
 
 ## 注意！ / Attention!

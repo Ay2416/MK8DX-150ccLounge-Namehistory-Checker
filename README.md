@@ -27,11 +27,11 @@ Google App Scriptを使用しています。
 ## 使い方
 1. 「Googleスプレッドシート共有リンク（コピーして使ってください）」にあるリンク先のGoogleスプレッドシートを下記リンクを参考に自分のドライブにコピーします。
 
-参考リンク:[https://www.appsupport.jp/docs/doc-copy/#:~:text=%E3%82%B3%E3%83%94%E3%83%BC%E3%81%97%E3%81%9F%E3%81%84%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88%E3%82%92,%E3%81%8C%E3%82%B3%E3%83%94%E3%83%BC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82](https://www.appsupport.jp/docs/doc-copy/#:~:text=%E3%82%B3%E3%83%94%E3%83%BC%E3%81%97%E3%81%9F%E3%81%84%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88%E3%82%92,%E3%81%8C%E3%82%B3%E3%83%94%E3%83%BC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82)
+* 参考リンク:[https://www.appsupport.jp/docs/doc-copy/#:~:text=%E3%82%B3%E3%83%94%E3%83%BC%E3%81%97%E3%81%9F%E3%81%84%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88%E3%82%92,%E3%81%8C%E3%82%B3%E3%83%94%E3%83%BC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82](https://www.appsupport.jp/docs/doc-copy/#:~:text=%E3%82%B3%E3%83%94%E3%83%BC%E3%81%97%E3%81%9F%E3%81%84%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88%E3%82%92,%E3%81%8C%E3%82%B3%E3%83%94%E3%83%BC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82)
 
 2. その後使用しようとすると、Google App Scriptの許可が必要な画面が出てくるので下記リンクのSTEP1~STEP3を参考に許可します。
 
-参考リンク:[https://programming-zero.net/gas-first-run-process/](https://programming-zero.net/gas-first-run-process/)
+* 参考リンク:[https://programming-zero.net/gas-first-run-process/](https://programming-zero.net/gas-first-run-process/)
 
 3. パソコンの場合はシート「PC」を使って名前を入力して、「start!」ボタンを左クリックすることで使用可能です。（使い終わったあとは名前を消して、「Clear!」を必ず押してください。）スマホの場合は、シート「SmartPhone」を使って名前を入力したり、削除することで勝手に反映されます。
 
@@ -101,10 +101,11 @@ It use Google App Script.
 
 1. Your Google Drive copy "Google Spreadsheet share link(Copy to use)" Google Spreadsheet.
 
-Refer link(Sorry, Japanese site...):[Auto translate this site by Google Translator](https://translate.google.com/translate?sl=ja&tl=en&u=https://www.appsupport.jp/docs/doc-copy/#:~:text=%E3%82%B3%E3%83%94%E3%83%BC%E3%81%97%E3%81%9F%E3%81%84%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88%E3%82%92,%E3%81%8C%E3%82%B3%E3%83%94%E3%83%BC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82)
+* Refer link(Sorry, Japanese site...):[Auto translate this site by Google Translator](https://translate.google.com/translate?sl=ja&tl=en&u=https://www.appsupport.jp/docs/doc-copy/#:~:text=%E3%82%B3%E3%83%94%E3%83%BC%E3%81%97%E3%81%9F%E3%81%84%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88%E3%82%92,%E3%81%8C%E3%82%B3%E3%83%94%E3%83%BC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82)
 
 2. This spreadsheet use to need Google App Script permission. Your accout need to permit this spreadsheet.
-Refer link(Sorry, Japanese site...):[Auto translate this site by Google Translator](https://translate.google.com/translate?sl=ja&tl=en&u=https://programming-zero.net/gas-first-run-process/)
+
+* Refer link(Sorry, Japanese site...):[Auto translate this site by Google Translator](https://translate.google.com/translate?sl=ja&tl=en&u=https://programming-zero.net/gas-first-run-process/)
 
 3. For PCs, use the sheet "PC", enter a name, and left-click the "start!" button to use it. (When you are done using the sheet, erase the name and be sure to press "Clear!) For smartphones, use the sheet "SmartPhone" to enter or delete a name, which will be reflected by itself.(Deepl Translator)
 

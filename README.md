@@ -98,7 +98,15 @@ It use Google App Script.
 * Google Chrome( Ohter browser)
 
 ## How to use?
-Editting...
+
+1. Your Google Drive copy "Google Spreadsheet share link(Copy to use)" Google Spreadsheet.
+
+Refer link(Sorry, Japanese site...):[Auto translate this site by Google Translator](https://translate.google.com/translate?sl=ja&tl=en&u=https://www.appsupport.jp/docs/doc-copy/#:~:text=%E3%82%B3%E3%83%94%E3%83%BC%E3%81%97%E3%81%9F%E3%81%84%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88%E3%82%92,%E3%81%8C%E3%82%B3%E3%83%94%E3%83%BC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82)
+
+2. This spreadsheet use to need Google App Script permission. Your accout need to permit this spreadsheet.
+Refer link(Sorry, Japanese site...):[Auto translate this site by Google Translator](https://translate.google.com/translate?sl=ja&tl=en&u=https://programming-zero.net/gas-first-run-process/)
+
+3. For PCs, use the sheet "PC", enter a name, and left-click the "start!" button to use it. (When you are done using the sheet, erase the name and be sure to press "Clear!) For smartphones, use the sheet "SmartPhone" to enter or delete a name, which will be reflected by itself.(Deepl Translator)
 
 ## LICENCE
 MIT License↓
